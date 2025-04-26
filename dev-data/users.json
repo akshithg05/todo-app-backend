@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Akshith Gunasheelan",
+    "petName": "Acchi",
+    "password": "test1234",
+    "email": "akshithg01@gmail.com",
+    "role": "admin",
+    "tasks": []
+  },
+  {
+    "name": "Anushka Gunasheelan",
+    "petName": "Anu",
+    "password": "test1234",
+    "email": "anushka@gmail.com",
+    "role": "user",
+    "tasks": []
+  },
+  {
+    "name": "Srinivasan Gunasheelan",
+    "petName": "Raju",
+    "password": "test1234",
+    "email": "guna@gmail.com",
+    "role": "user",
+    "tasks": []
+  },
+  {
+    "name": "Shanthalakshmi Gunasheelan",
+    "petName": "Lakshmi",
+    "password": "test1234",
+    "email": "shanthal@gmail.com",
+    "role": "user",
+    "tasks": []
+  }
+]

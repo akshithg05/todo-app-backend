@@ -1,0 +1,6 @@
+[
+  { "input": "Hello! Add your first todo!", "complete": false },
+  { "input": "Get the groceries!", "complete": false },
+  { "input": "Learn how to web design", "complete": false },
+  { "input": "Say hi to gran gran", "complete": false }
+]
